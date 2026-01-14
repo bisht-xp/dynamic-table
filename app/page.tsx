@@ -1,5 +1,3 @@
-import Header from "./components/header/Header";
-import Warning from "./components/warning/Warning";
 import TableComponent from "./components/table-component/TableComponent";
 
 export default function Home() {
