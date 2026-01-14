@@ -89,7 +89,7 @@ If this were a production-grade library, here is how I would scale it further:
 
 ## 📦 Tech Stack & Packages
 
-- **Next.js 14 (App Router)**: For server-side rendering capabilities and routing.
+- **Next.js 16 (App Router)**: For server-side rendering capabilities and routing.
 - **@tanstack/react-table**: Headless UI library for complex table logic (sorting, filtering, pagination) without enforcing styles.
 - **Tailwind CSS**: Utility-first CSS for rapid, responsive styling.
 - **React Icons**: Lightweight icon library.
